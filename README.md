@@ -17,3 +17,8 @@ Error
 Non-UofT Email
 
 ![1.4 Non-UofT](img/4-nonuoft.png)
+
+Docker
+
+![2.4](img/2-4-docker.png)
+
